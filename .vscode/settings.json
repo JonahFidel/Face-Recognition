@@ -4,5 +4,6 @@
     "*.jsx": "javascriptreact",
     "*.ts": "typescript",
     "*.tsx": "typescriptreact"
-  }
+  },
+  "liveServer.settings.port": 5501
 }
